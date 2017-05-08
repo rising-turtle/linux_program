@@ -1,0 +1,26 @@
+Zhang He, May 12, project: netpong 
+hxzhang1@ualr.edu 
+
+1. compile: 
+    make 
+
+2. implement:
+  2.1 start server 
+    ./net_main port 
+    example: ./net_main 3002
+  2.2 start client
+    ./net_main hostname port 
+    example: ./net_main davidz-T430 3002
+  2.3 client serve the ball
+    press 'j' and 'k' move the paddle, and
+    press 's' or 'S' to serve the ball
+  2.4 it works following the steps in the report, when it finishes, the result will be shown in the terminal  
+  2.5 press 'Q' to quit the game at anytime 
+
+
+  
+
+
+
+
+
